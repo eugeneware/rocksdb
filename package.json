@@ -1,5 +1,5 @@
 {
-  "name": "rocksdb",
+  "name": "@eugeneware/rocksdb",
   "version": "3.0.3",
   "description": "A Node.js RocksDB binding, a backend for LevelUP",
   "license": "MIT",
