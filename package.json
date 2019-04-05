@@ -1,6 +1,6 @@
 {
   "name": "@eugeneware/rocksdb",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "A Node.js RocksDB binding, a backend for LevelUP",
   "license": "MIT",
   "main": "leveldown.js",
